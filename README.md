@@ -1,4 +1,6 @@
 # mqtt_demo
 android client demo
-![Aaron Swartz](https://raw.githubusercontent.com/smshen/MarkdownPhotos/master/Res/test.jpg)
+<div align='center'\>
+　　<img src=https://github.com/liangyisheng/mqtt_demo/blob/master/test.gif width=300 />
+</div>
 
